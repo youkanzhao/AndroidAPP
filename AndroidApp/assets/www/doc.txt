@@ -1,0 +1,1 @@
+http://jquerymobile.com/demos/1.3.0/docs/examples/collapsibles/dynamic-collapsible.html#&ui-state=dialog
