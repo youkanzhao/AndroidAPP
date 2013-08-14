@@ -5,13 +5,13 @@ import org.apache.cordova.DroidGap;
 import android.content.pm.ActivityInfo;
 import android.os.Bundle;
 
-public class MainActivity extends DroidGap {
+public class GetFruit extends DroidGap {
 
 	@Override
 	public void onCreate(Bundle savedInstanceState) {
 		setScreen();
 		super.onCreate(savedInstanceState);
-		super.loadUrl("file:///android_asset/www/GetFruit/index.html");
+		super.loadUrl("http://szgame.duapp.com/GetFruit/index.html");
 	}
 	
 	private void setScreen(){
